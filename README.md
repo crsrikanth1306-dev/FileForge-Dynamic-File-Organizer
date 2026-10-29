@@ -68,5 +68,3 @@ FileForge-Dynamic-File-Organizer/
 - 🎨 Improved interface design
 
 ---
-
-\<p align="center">   💙 \<strong>FileForge – Organize your files, effortlessly.\</strong> \</p
