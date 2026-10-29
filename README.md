@@ -23,14 +23,6 @@
 | 🔄 shutil   | File operations           |
 | 📄 JSON     | Organization reports      |
 
-## 📸 Application Preview
-
-*Add a screenshot of your application here after uploading it to your GitHub repository.*
-
-```markdown
-![FileForge Application](screenshots/fileforge.png)
-```
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
@@ -61,8 +53,6 @@ FileForge-Dynamic-File-Organizer/
 └── screenshots/
     └── fileforge.png
 ```
-
-*Note: Add the `screenshots` folder and image only when you have a screenshot to include.*
 
 ## 🔐 Safety
 
